@@ -13,8 +13,8 @@ Before you start, ensure you have the following installed:
 ### Setup Instructions
 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/MZain-ul-Abideen/multi-contain-TODO-app.git
+cd multi-contain-TODO-app
 ```
 2. Build the Docker Containers
 ```bash
